@@ -3,9 +3,9 @@
 # The find_max_value takes in an array of integers,
 # and should return whichever integer in the array has the highest value.
 
-array = [0,1,2]
+array = []
 
-def find_max_value(array)
+def     find_max_value(array)
   count = 0
   max_value = -1
   while count < array.length do
